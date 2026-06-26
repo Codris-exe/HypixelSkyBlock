@@ -31,7 +31,7 @@ dependencies {
     implementation("com.google.code.gson:gson:2.13.2")
     implementation("org.mongodb:bson:5.6.2")
     implementation("org.mongodb:mongodb-driver-sync:5.6.2")
-    implementation("redis.clients:jedis:7.4.1")
+    implementation("redis.clients:jedis:7.5.2")
 }
 
 application {
